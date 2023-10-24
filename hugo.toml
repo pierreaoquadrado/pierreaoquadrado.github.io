@@ -21,7 +21,7 @@ name = "πR²"
 [params]
 numberOfTagsShown = 12
 dateFormat = '2006⋄01⋄02'
-enableSearch = true
+enableSearch = false
 enableMathNotation = true
 introDescription = 'Respostas para as dúvidas que você nem sabia que tinha!'
 introURL = '/about'
