@@ -6,20 +6,55 @@
     <description>Recent content in Posts on πR² - A Circulatura do Quadrado!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Aug 2024 23:55:33 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 11:58:48 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MiKTeX</title>
       <link>https://pierreaoquadrado.github.io/posts/miktex-main/</link>
-      <pubDate>Sun, 18 Aug 2024 23:55:33 -0300</pubDate>
+      <pubDate>Mon, 19 Aug 2024 11:58:48 -0300</pubDate>
       
       <guid>https://pierreaoquadrado.github.io/posts/miktex-main/</guid>
       <description>
         
           
             Do próprio site do MiKTeX, MiKTeX is a modern TeX distribution for Windows, Linux and macOS (MiKTeX é uma distribuição TeX moderna para Windows, Linux e macOS).
-Obtendo o MiKTeX Vá à página de downloads do MiKTeX e escolha a versão Windows, na aba Installer. No caso do Linux, em geral as próprias distribuições fornecem os pacotes do MiKTeX ou do TeXlive.
+Para uma instalação completa e funcional serão instalados, além do MiKTeX, Perl (para latexmk) e TeXstudio.
+Obtendo o MiKTeX Vá até a página de downloads do MiKTeX e escolha a versão Windows, na aba Installer. No caso do Linux, em geral as próprias distribuições fornecem os pacotes do MiKTeX ou do TeXlive.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Perl</title>
+      <link>https://pierreaoquadrado.github.io/posts/perl-main/</link>
+      <pubDate>Mon, 19 Aug 2024 11:58:44 -0300</pubDate>
+      
+      <guid>https://pierreaoquadrado.github.io/posts/perl-main/</guid>
+      <description>
+        
+          
+            A linguagem de programação Perl é utilizada por um dos mais práticos scripts de compilação LaTeX, o latexmk (mais sobre ele num artigo próprio).
+Usaremos a versão 5.40.0.1 do Strawberry Perl, a versão completamente gratuita da linguagem para Windows. Em geral as distribuições Linux já possuem a linguagem facilmente instalável.
+Download de Strawberry Perl Vá até Strawberry Perl e selecione o link que aponta para 5.40.0.1 MSI. Essa é a versão disponível durante a escrita desse tutorial, em 2024⋄08⋄19.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>TeXstudio</title>
+      <link>https://pierreaoquadrado.github.io/posts/texstudio-main/</link>
+      <pubDate>Mon, 19 Aug 2024 11:58:38 -0300</pubDate>
+      
+      <guid>https://pierreaoquadrado.github.io/posts/texstudio-main/</guid>
+      <description>
+        
+          
+            Da página do TeXstudio, LaTeX made comfortable (LaTeX de forma confortável), o TeXstudio é um editor indicado para aqueles que estão iniciando na fina arte do da criação de documentos com LaTeX.
+Obtendo o TeXstudio Vá até a página de downloads do TeXstudio e escolha a versão 4.8.1 para Windows, do tipo Installer. No caso do Linux, em geral as próprias distribuições fornecem os pacotes do TeXstudio.
 Clique no botão de download e aguarde.
-Instalando o MiKTeX no Windows Abra a pasta Downloads e clique duas vezes em basic-miktex-24.
           
           
         

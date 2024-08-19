@@ -6,20 +6,19 @@
     <description>Recent content in Miktex on πR² - A Circulatura do Quadrado!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Aug 2024 23:55:33 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/tags/miktex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 11:58:48 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/tags/miktex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MiKTeX</title>
       <link>https://pierreaoquadrado.github.io/posts/miktex-main/</link>
-      <pubDate>Sun, 18 Aug 2024 23:55:33 -0300</pubDate>
+      <pubDate>Mon, 19 Aug 2024 11:58:48 -0300</pubDate>
       
       <guid>https://pierreaoquadrado.github.io/posts/miktex-main/</guid>
       <description>
         
           
             Do próprio site do MiKTeX, MiKTeX is a modern TeX distribution for Windows, Linux and macOS (MiKTeX é uma distribuição TeX moderna para Windows, Linux e macOS).
-Obtendo o MiKTeX Vá à página de downloads do MiKTeX e escolha a versão Windows, na aba Installer. No caso do Linux, em geral as próprias distribuições fornecem os pacotes do MiKTeX ou do TeXlive.
-Clique no botão de download e aguarde.
-Instalando o MiKTeX no Windows Abra a pasta Downloads e clique duas vezes em basic-miktex-24.
+Para uma instalação completa e funcional serão instalados, além do MiKTeX, Perl (para latexmk) e TeXstudio.
+Obtendo o MiKTeX Vá até a página de downloads do MiKTeX e escolha a versão Windows, na aba Installer. No caso do Linux, em geral as próprias distribuições fornecem os pacotes do MiKTeX ou do TeXlive.
           
           
         
