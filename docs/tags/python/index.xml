@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>python on πR² - A Circulatura do Quadrado!</title><link>https://pierreaoquadrado.github.io/tags/python/</link><description>Recent content in python on πR² - A Circulatura do Quadrado!</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><lastBuildDate>Tue, 24 Oct 2023 23:29:40 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Instalação do Anaconda no Windows</title><link>https://pierreaoquadrado.github.io/posts/instalacao-anaconda-windows/</link><pubDate>Tue, 24 Oct 2023 23:29:40 -0300</pubDate><guid>https://pierreaoquadrado.github.io/posts/instalacao-anaconda-windows/</guid><description>
-Nesta seção veremos como baixar e instalar o Anaconda Python para Windows, versões 10 e 11. No caso do GNU/Linux usaremos ambientes virtuais com pyenv.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on πR² - A Circulatura do Quadrado!</title>
+    <link>https://pierreaoquadrado.github.io/tags/python/</link>
+    <description>Recent content in Python on πR² - A Circulatura do Quadrado!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sun, 18 Aug 2024 23:13:30 -0300</lastBuildDate><atom:link href="https://pierreaoquadrado.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalação do Anaconda no Windows</title>
+      <link>https://pierreaoquadrado.github.io/posts/instalacao-anaconda-windows/</link>
+      <pubDate>Sun, 18 Aug 2024 23:13:30 -0300</pubDate>
+      
+      <guid>https://pierreaoquadrado.github.io/posts/instalacao-anaconda-windows/</guid>
+      <description>
+        
+          
+            Nesta seção veremos como baixar e instalar o Anaconda Python para Windows, versões 10 e 11. No caso do GNU/Linux usaremos ambientes virtuais com pyenv.
 Baixando o Anaconda Baixar o Anaconda é extremamente simples! Vá em Anaconda Installers e clique no link abaixo do logotipo do Windows, chamado 64-Bit Graphical Installer.
-Note que este último link é para a versão 2023-09-0, com Python 3.11 por padrão. Adapte de acordo com eventuais novas versões.</description></item></channel></rss>
+Note que este último link é para a versão 2023-09-0, com Python 3.11 por padrão. Adapte de acordo com eventuais novas versões.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

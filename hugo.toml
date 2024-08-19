@@ -59,6 +59,11 @@ websiteDomain = 'https://pierreaoquadrado.github.io'
   weight = 15
 
 [[menu.main]]
+  name = 'LaTeX'
+  pageRef = '/tags/latex'
+  weight = 17
+
+[[menu.main]]
   name = 'Sobre'
   pageRef = '/about'
   weight = 20
