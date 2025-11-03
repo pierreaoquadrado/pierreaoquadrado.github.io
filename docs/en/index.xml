@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>πR² - the roundness of a square!</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://pierreaoquadrado.github.io/en/</link>
     <description>Recent content on πR² - the roundness of a square!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright: πR²</copyright>
     <lastBuildDate>Mon, 03 Nov 2025 09:01:01 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pierreaoquadrado.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PBA and betting apps</title>
-      <link>http://localhost:1313/en/posts/pir2/</link>
+      <link>https://pierreaoquadrado.github.io/en/posts/pir2/</link>
       <pubDate>Mon, 03 Nov 2025 09:01:01 -0300</pubDate>
-      <guid>http://localhost:1313/en/posts/pir2/</guid>
+      <guid>https://pierreaoquadrado.github.io/en/posts/pir2/</guid>
       <description></description>
     </item>
   </channel>
