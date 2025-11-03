@@ -1,30 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>http://localhost:1313/pt-br/sitemap.xml</loc>
     
-      <url>
-            <loc>https://pierreaoquadrado.github.io/posts/pir2/</loc>
-            <lastmod>2025-11-02T14:45:13-03:00</lastmod>
-          </url>
+      <lastmod>2025-11-03T08:53:29-03:00</lastmod>
     
+  </sitemap>
   
+  <sitemap>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <url>
-            <loc>https://pierreaoquadrado.github.io/posts/</loc>
-            <lastmod>2025-11-02T14:45:13-03:00</lastmod>
-          </url>
+      <lastmod>2025-11-03T08:53:29-03:00</lastmod>
     
+  </sitemap>
   
-    
-      <url>
-            <loc>https://pierreaoquadrado.github.io/</loc>
-            <lastmod>2025-11-02T14:45:13-03:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-</urlset>
+</sitemapindex>
