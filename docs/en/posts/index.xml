@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on πR² - the roundness of a square!</title>
-    <link>http://localhost:1313/en/posts/</link>
+    <link>https://pierreaoquadrado.github.io/en/posts/</link>
     <description>Recent content in Posts on πR² - the roundness of a square!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright: πR²</copyright>
     <lastBuildDate>Mon, 03 Nov 2025 15:03:29 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pierreaoquadrado.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PBA and betting apps</title>
-      <link>http://localhost:1313/en/posts/bets/</link>
+      <link>https://pierreaoquadrado.github.io/en/posts/bets/</link>
       <pubDate>Mon, 03 Nov 2025 15:03:29 -0300</pubDate>
-      <guid>http://localhost:1313/en/posts/bets/</guid>
+      <guid>https://pierreaoquadrado.github.io/en/posts/bets/</guid>
       <description>Here you can find all files referenced in the paper Proposal for a Project-Based Activity to raise awareness about betting apps</description>
     </item>
   </channel>

@@ -4,34 +4,34 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/posts/bets/</loc>
+            <loc>https://pierreaoquadrado.github.io/en/posts/bets/</loc>
             <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="http://localhost:1313/posts/bets/"
+              href="https://pierreaoquadrado.github.io/posts/bets/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/posts/bets/"
+              href="https://pierreaoquadrado.github.io/en/posts/bets/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/en/posts/</loc>
+            <loc>https://pierreaoquadrado.github.io/en/posts/</loc>
             <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="http://localhost:1313/posts/"
+              href="https://pierreaoquadrado.github.io/posts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/posts/"
+              href="https://pierreaoquadrado.github.io/en/posts/"
               />
           </url>
     
@@ -42,17 +42,17 @@
   
     
       <url>
-            <loc>http://localhost:1313/en/</loc>
+            <loc>https://pierreaoquadrado.github.io/en/</loc>
             <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="http://localhost:1313/"
+              href="https://pierreaoquadrado.github.io/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/en/"
+              href="https://pierreaoquadrado.github.io/en/"
               />
           </url>
     
