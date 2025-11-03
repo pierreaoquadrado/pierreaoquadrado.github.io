@@ -4,17 +4,17 @@
   
     
       <url>
-            <loc>https://pierreaoquadrado.github.io/posts/bets/</loc>
-            <lastmod>2025-11-03T14:38:53-03:00</lastmod>
+            <loc>http://localhost:1313/posts/bets/</loc>
+            <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://pierreaoquadrado.github.io/en/posts/bets/"
+              href="http://localhost:1313/en/posts/bets/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="https://pierreaoquadrado.github.io/posts/bets/"
+              href="http://localhost:1313/posts/bets/"
               />
           </url>
     
@@ -23,17 +23,17 @@
   
     
       <url>
-            <loc>https://pierreaoquadrado.github.io/posts/</loc>
-            <lastmod>2025-11-03T14:38:53-03:00</lastmod>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://pierreaoquadrado.github.io/en/posts/"
+              href="http://localhost:1313/en/posts/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="https://pierreaoquadrado.github.io/posts/"
+              href="http://localhost:1313/posts/"
               />
           </url>
     
@@ -42,17 +42,17 @@
   
     
       <url>
-            <loc>https://pierreaoquadrado.github.io/</loc>
-            <lastmod>2025-11-03T14:38:53-03:00</lastmod>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-11-03T15:03:29-03:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://pierreaoquadrado.github.io/en/"
+              href="http://localhost:1313/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="pt-br"
-              href="https://pierreaoquadrado.github.io/"
+              href="http://localhost:1313/"
               />
           </url>
     
