@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>πR² - a circulatura do quadrado!</title>
-    <link>https://pierreaoquadrado.github.io/</link>
-    <description>Recent content on πR² - a circulatura do quadrado!</description>
+    <title>Posts on πR² - a circulatura do quadrado!</title>
+    <link>https://pierreaoquadrado.github.io/posts/</link>
+    <description>Recent content in Posts on πR² - a circulatura do quadrado!</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <copyright>Copyright: πR²</copyright>
     <lastBuildDate>Mon, 03 Nov 2025 13:53:40 -0300</lastBuildDate>
-    <atom:link href="https://pierreaoquadrado.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pierreaoquadrado.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PBL e aplicativos de apostas</title>
       <link>https://pierreaoquadrado.github.io/posts/bets/bets/</link>
       <pubDate>Mon, 03 Nov 2025 13:53:40 -0300</pubDate>
       <guid>https://pierreaoquadrado.github.io/posts/bets/bets/</guid>
-      <description>Aqui você encontra os arquivos mencionados no artigo Proposta de uma Atividade Baseada em Projetos para a conscientização sobre aplicativos de apostas (bets).</description>
-    </item>
-    <item>
-      <title>PBL e aplicativos de apostas</title>
-      <link>https://pierreaoquadrado.github.io/bets/bets/</link>
-      <pubDate>Mon, 03 Nov 2025 11:48:24 -0300</pubDate>
-      <guid>https://pierreaoquadrado.github.io/bets/bets/</guid>
       <description>Aqui você encontra os arquivos mencionados no artigo Proposta de uma Atividade Baseada em Projetos para a conscientização sobre aplicativos de apostas (bets).</description>
     </item>
   </channel>
