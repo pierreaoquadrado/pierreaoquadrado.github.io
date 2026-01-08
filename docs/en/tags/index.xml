@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on πR² - the roundness of a square!</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://pierreaoquadrado.github.io/en/tags/</link>
     <description>Recent content in Tags on πR² - the roundness of a square!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright: πR²</copyright>
     <lastBuildDate>Thu, 08 Jan 2026 12:38:56 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pierreaoquadrado.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Downloads</title>
-      <link>http://localhost:1313/en/tags/downloads/</link>
+      <link>https://pierreaoquadrado.github.io/en/tags/downloads/</link>
       <pubDate>Thu, 08 Jan 2026 12:38:56 -0300</pubDate>
-      <guid>http://localhost:1313/en/tags/downloads/</guid>
+      <guid>https://pierreaoquadrado.github.io/en/tags/downloads/</guid>
       <description></description>
     </item>
     <item>
       <title>Latex</title>
-      <link>http://localhost:1313/en/tags/latex/</link>
+      <link>https://pierreaoquadrado.github.io/en/tags/latex/</link>
       <pubDate>Thu, 08 Jan 2026 12:38:56 -0300</pubDate>
-      <guid>http://localhost:1313/en/tags/latex/</guid>
+      <guid>https://pierreaoquadrado.github.io/en/tags/latex/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>http://localhost:1313/en/tags/paper/</link>
+      <link>https://pierreaoquadrado.github.io/en/tags/paper/</link>
       <pubDate>Thu, 08 Jan 2026 12:38:56 -0300</pubDate>
-      <guid>http://localhost:1313/en/tags/paper/</guid>
+      <guid>https://pierreaoquadrado.github.io/en/tags/paper/</guid>
       <description></description>
     </item>
   </channel>
