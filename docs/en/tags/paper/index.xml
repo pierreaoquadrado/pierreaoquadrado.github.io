@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper on πR² - the roundness of a square!</title>
+    <link>http://localhost:1313/en/tags/paper/</link>
+    <description>Recent content in Paper on πR² - the roundness of a square!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright: πR²</copyright>
+    <lastBuildDate>Thu, 08 Jan 2026 12:38:56 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PBA and betting apps</title>
+      <link>http://localhost:1313/en/posts/bets/</link>
+      <pubDate>Thu, 08 Jan 2026 12:38:56 -0300</pubDate>
+      <guid>http://localhost:1313/en/posts/bets/</guid>
+      <description>Here you can find all files referenced in the paper Proposal for a Project-Based Activity to raise awareness about betting apps</description>
+    </item>
+  </channel>
+</rss>
